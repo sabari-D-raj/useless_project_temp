@@ -46,8 +46,12 @@ For Software: VSCode
 
 # Screenshot
 <img width="738" height="525" alt="sing2" src="https://github.com/user-attachments/assets/7dbd21cf-bcda-49b3-a596-a5fb7909b0b9" />
+
+
 Recording the audio.
 <img width="735" height="520" alt="sing3" src="https://github.com/user-attachments/assets/52708b4c-64e4-4e3b-869d-7ec4a388167f" />
+
+
 Replaying back those glorious 10 seconds but you can't hear it since we're doing something audio based.
 
 ### Project Demo
