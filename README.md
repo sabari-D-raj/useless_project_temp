@@ -26,12 +26,40 @@ So to put an end to this infuriating problem (that no one has ever faced), we've
 For Software:
 - Language - Python
 - Libraries - scipy, sounddevice, tkinter
+- Tools - ChatGPT
+
+For Hardware:
+- Any computer
+- Microphone (built-in)
+- Speakers/headphones
+
+### Implementation
+For Software:
+# Installation
+pip install sounddevice scipy
+
+# Run
+python singasong.py 
+
+### Project Documentation
+For Software:VSCode
+
+# Screenshot
+Add capt<img width="735" height="520" alt="sing3" src="https://github.com/user-attachments/assets/52708b4c-64e4-4e3b-869d-7ec4a388167f" />
+Replaying back those glorious 10 seconds but you can't hear it since we're doing something audio based.
+
+### Project Demo
+# Video
+[Add your demo video link here]
+The video is showing the process in which the app records and replays the audio.
+
 
 ## Team Contributions
 - [Sabari Raj RS]: [Idea and implementation]
 - [Bilahari P S]: [Documentation and touchups]
 
 ---
-Made with ❤️ at TinkerHub Useless Projects.
+Made with ❤ at TinkerHub Useless Projects.
 
-
+![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
+![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
