@@ -50,7 +50,7 @@ Replaying back those glorious 10 seconds but you can't hear it since we're doing
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+
 The video is showing the process in which the app records and replays the audio.
 
 
