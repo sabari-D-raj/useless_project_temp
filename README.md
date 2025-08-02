@@ -49,9 +49,13 @@ For Software: VSCode
 Replaying back those glorious 10 seconds but you can't hear it since we're doing something audio based.
 
 ### Project Demo
-# Video
-
+# Video 
+<video controls src="../demo.mp4" title="Title"></video>
 The video is showing the process in which the app records and replays the audio.
+
+# Diagram
+
+Diagram demostrating the working of this app.
 
 
 ## Team Contributions
