@@ -45,9 +45,10 @@ python singasong.py
 For Software: VSCode
 
 # Screenshot
+<img width="738" height="525" alt="sing2" src="https://github.com/user-attachments/assets/7dbd21cf-bcda-49b3-a596-a5fb7909b0b9" />
+Recording the audio.
 <img width="735" height="520" alt="sing3" src="https://github.com/user-attachments/assets/52708b4c-64e4-4e3b-869d-7ec4a388167f" />
 Replaying back those glorious 10 seconds but you can't hear it since we're doing something audio based.
-<img width="738" height="525" alt="sing2" src="https://github.com/user-attachments/assets/5d0ef190-7902-4187-ab51-2356a285ea30" />
 
 ### Project Demo
 # Video 
@@ -59,7 +60,7 @@ https://github.com/user-attachments/assets/838e6f01-d12c-4f69-91d4-08a0e9f146e1
 The video is showing the process in which the app records and replays the audio.
 
 # Diagram
-
+<img width="1024" height="1536" alt="diagram" src="https://github.com/user-attachments/assets/d26f3e7c-6c21-48ee-bc53-73a51794011e" />
 Diagram demostrating the working of this app.
 
 
