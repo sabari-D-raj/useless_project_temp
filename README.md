@@ -42,10 +42,10 @@ pip install sounddevice scipy
 python singasong.py 
 
 ### Project Documentation
-For Software:VSCode
+For Software: VSCode
 
 # Screenshot
-Add capt<img width="735" height="520" alt="sing3" src="https://github.com/user-attachments/assets/52708b4c-64e4-4e3b-869d-7ec4a388167f" />
+<img width="735" height="520" alt="sing3" src="https://github.com/user-attachments/assets/52708b4c-64e4-4e3b-869d-7ec4a388167f" />
 Replaying back those glorious 10 seconds but you can't hear it since we're doing something audio based.
 
 ### Project Demo
