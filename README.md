@@ -64,7 +64,7 @@ https://github.com/user-attachments/assets/838e6f01-d12c-4f69-91d4-08a0e9f146e1
 The video is showing the process in which the app records and replays the audio.
 
 # Diagram
-<img width="1024" height="1536" alt="diagram" src="https://github.com/user-attachments/assets/d26f3e7c-6c21-48ee-bc53-73a51794011e" />
+<img width="1024" height="1536" alt="diagram2" src="https://github.com/user-attachments/assets/b4ff4a68-1261-40a2-a506-2c8d5c0d5fb0" />
 Diagram demostrating the working of this app.
 
 
